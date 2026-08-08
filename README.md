@@ -13,7 +13,27 @@
 - Building AI-powered tools and full-stack web applications
 - Currently exploring Deep Learning & SQL
 - Goal: Become a skilled AI/ML Engineer
+### Education
+Diploma in Artificial Intelligence & Machine Learning — GIOE College
 
+### Certifications
+- (Add your certification names here)
+
+### Leadership & Community
+President, EC Committee — PSS Miyapur Gavel Club / Young Leaders Program (YLP)
+Active in youth public speaking and leadership development programs.
+
+### Currently Learning
+Deep Learning, SQL, and building end-to-end AI applications with Firebase.
+
+### Support
+<a href="#"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
+
+### Connect with me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 ### Skills & Technologies
 
 **Languages & Core**  
