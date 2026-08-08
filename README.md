@@ -1,80 +1,57 @@
-<div align="center">
+<h1 align="center">Hi, I'm Sravani</h1>
+<h3 align="center">AI & ML Student | Developer | Building AI-powered tools</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sravani;AI+%26+ML+Student;Building+AI-powered+tools" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=6C63FF" alt="profile views" />
+<p align="center">
+  AI & Machine Learning student passionate about building practical projects, 
+  learning new technologies, and turning ideas into useful applications.
 </p>
 
-</div>
+---
 
-<br>
-
-## About me
-
-AI and Machine Learning student passionate about building practical projects, learning new technologies, and turning ideas into working applications. Currently deepening my skills in Deep Learning and SQL while building full-stack AI-powered tools.
-
-- Diploma in AI and Machine Learning, GIOE College
+### About Me
+- Diploma in AI & Machine Learning
 - Building AI-powered tools and full-stack web applications
-- Goal: become a skilled AI/ML engineer
+- Currently exploring Deep Learning & SQL
+- Goal: Become a skilled AI/ML Engineer
 
-<br>
+### Skills & Technologies
 
-## Tech stack
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<div align="center">
+**AI/ML & Data**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,git,vscode,sql&theme=dark" />
+**Tools & Platforms**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-</div>
+### Featured Projects
 
-<br>
+| Project | Description |
+|---|---|
+| [AI Shopping Assistant](#) | Frontend AI-powered shopping tool built with HTML, CSS, and JavaScript |
+| [More projects](#) | Continuously building and adding to my portfolio |
 
-## Featured projects
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ai-shopping-assistant&theme=dark" />
-</a>
-
-</div>
-
-<br>
-
-## Leadership
-
-President, EC Committee — Young Leaders Program (YLP)
-Active in youth public speaking and leadership development programs.
-
-<br>
-
-## 2026 goals
-
+### 2026 Goals
 - Build 5+ AI/ML projects
-- Learn Deep Learning end to end
+- Learn Deep Learning
 - Deploy an AI application publicly
-- Contribute to open source
+- Contribute to Open Source
 - Build a strong AI/ML portfolio
 
-<br>
+### GitHub Stats
 
-## GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="165" />
-
-</div>
-
-<br>
-
-## Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
+### Let's Connect
+Reach out — I'm always up for learning, collaborating, and building interesting projects.
