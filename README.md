@@ -1,57 +1,76 @@
-<h1 align="center">Hi, I'm Sravani</h1>
-<h3 align="center">AI & ML Student | Developer | Building AI-powered tools</h3>
 
-<p align="center">
-  AI & Machine Learning student passionate about building practical projects, 
-  learning new technologies, and turning ideas into useful applications.
-</p>
 
----
+import { Github, ExternalLink, GitFork, Star } from "lucide-react";
+import { Reveal } from "./Reveal";
+import { Section } from "./Section";
 
-### About Me
-- Diploma in AI & Machine Learning
-- Building AI-powered tools and full-stack web applications
-- Currently exploring Deep Learning & SQL
-- Goal: Become a skilled AI/ML Engineer
+export function GithubSection() {
+  return (
+    <Section
+      id="github"
+      eyebrow="GitHub"
+      title="My GitHub"
+      description="Explore my projects, experiments, and development work on GitHub."
+    >
+      <Reveal>
+        <div className="glass-card lift p-6 sm:p-8">
+          <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
+            <div className="flex items-start gap-4">
+              <span className="grid size-12 shrink-0 place-items-center rounded-xl bg-secondary text-primary">
+                <Github size={24} />
+              </span>
 
-### Skills & Technologies
+              <div>
+                <h3 className="font-display text-xl font-semibold">
+                  AI & ML Developer
+                </h3>
 
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+                <p className="mt-2 text-sm text-muted-foreground">
+                  I use GitHub to build, manage, and share my projects,
+                  experiments, and AI-based applications.
+                </p>
+              </div>
+            </div>
 
-**AI/ML & Data**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+            <a
+              href="https://github.com/YOUR-GITHUB-USERNAME"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex w-fit items-center gap-2 rounded-full border border-border px-5 py-2.5 text-sm font-semibold transition-colors hover:border-primary"
+            >
+              <Github size={16} />
+              Visit GitHub
+              <ExternalLink size={14} />
+            </a>
+          </div>
 
-**Tools & Platforms**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+          <div className="mt-6 grid gap-4 sm:grid-cols-3">
+            <div className="rounded-xl border border-border p-4">
+              <GitFork size={18} className="text-primary" />
+              <h4 className="mt-3 font-semibold">Projects</h4>
+              <p className="mt-1 text-sm text-muted-foreground">
+                AI, ML and web development projects
+              </p>
+            </div>
 
-### Featured Projects
+            <div className="rounded-xl border border-border p-4">
+              <Star size={18} className="text-primary" />
+              <h4 className="mt-3 font-semibold">Learning</h4>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Learning through practical coding and experiments
+              </p>
+            </div>
 
-| Project | Description |
-|---|---|
-| [AI Shopping Assistant](#) | Frontend AI-powered shopping tool built with HTML, CSS, and JavaScript |
-| [More projects](#) | Continuously building and adding to my portfolio |
-
-### 2026 Goals
-- Build 5+ AI/ML projects
-- Learn Deep Learning
-- Deploy an AI application publicly
-- Contribute to Open Source
-- Build a strong AI/ML portfolio
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
-</p>
-
-### Let's Connect
-Reach out — I'm always up for learning, collaborating, and building interesting projects.
+            <div className="rounded-xl border border-border p-4">
+              <Github size={18} className="text-primary" />
+              <h4 className="mt-3 font-semibold">Open Source</h4>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Sharing useful projects and development work
+              </p>
+            </div>
+          </div>
+        </div>
+      </Reveal>
+    </Section>
+  );
+}
